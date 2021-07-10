@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "text": "Learn Vue",
+      "day": "1st of August at 1:30 PM",
+      "reminder": true,
+      "id": 1
+    }
+  ]
+}
